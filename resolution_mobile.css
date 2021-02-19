@@ -1,3 +1,4 @@
+  
 @import url('https://fonts.googleapis.com/css2?family=Raleway&display=swap');
 @import url('https://fonts.googleapis.com/css2?family=Raleway:wght@700&display=swap');
 /* HEADER */
@@ -43,7 +44,6 @@ a.headersub  {
 {
     margin-left: 5%;
     margin-bottom: 10px;
-    width: 100%;
 }
 .navheader 
 {
@@ -82,7 +82,7 @@ a.headersub  {
 }
 .searchForm
 {
-    padding-left: 30px;
+    padding-left: 15px;
 }
 .searchicon
 {
@@ -115,16 +115,16 @@ a.headersub  {
 }
 .searchFilters__Filtres
 {
-    padding-left: 30px;
+    padding-left: 6%;
+    padding-right: 70%;
     margin-bottom: 0;
-    width: 100%;
 }
 .searchFilters__Filter
 {
-    margin-right: 19px;
-    margin-left: 33px;
+    margin-right: 0%;
+    margin-left: 3%;
     margin-top: 15px;
-    font-size: 19px;
+    font-size: 18px;
     padding: 0px;
 }
 .searchFilters__Icon
@@ -238,7 +238,7 @@ a.headersub  {
 }
 .popular__Figure--Img
 {
-    width: 45%;
+    width: 40%;
     height: 115px;
 }
 .popular__Figure--Title
