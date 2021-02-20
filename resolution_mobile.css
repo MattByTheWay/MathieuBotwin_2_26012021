@@ -218,6 +218,7 @@ a.headersub  {
 {
     min-height: 100px;
     max-width: 85%;
+    min-width: 85%;
     margin: 17px auto;
 }
 .popular__flex
