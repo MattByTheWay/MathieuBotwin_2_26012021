@@ -44,7 +44,6 @@ body
 #logo
 {
     display: inline-block;
-    margin: 5%;
 }
 nav ul
 {
@@ -99,6 +98,7 @@ nav li
     text-align: left;
     font-weight: bold;
     color: black;
+    font-family: 'Raleway', sans-serif;
 }
 .searchForm__button
 {
@@ -108,6 +108,7 @@ nav li
     background-color: #0065FC;
     text-align: center;
     color: white;
+    font-family: 'Raleway', sans-serif;
 }
 .searchForm__button i
 {

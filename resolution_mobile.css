@@ -400,3 +400,11 @@ a.headersub  {
     padding-top: 6px;
     padding-bottom: 6px;
 }
+
+.footer__nav--propos {
+    margin-right: unset; 
+}
+
+.footer__nav--hebergement {
+    margin-right: unset; 
+}
