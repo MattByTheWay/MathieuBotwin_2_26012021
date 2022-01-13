@@ -1,4 +1,4 @@
-Projet 2 de Open Classroom : Création d'un sites web réseau social type reddit
+Projet 2 de Open Classroom : Transformez une maquette en site web avec HTML & CSS
 
 Langage utilisé :  HTML et CSS
 
