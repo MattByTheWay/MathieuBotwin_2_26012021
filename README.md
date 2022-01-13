@@ -6,6 +6,6 @@ Framework : Aucun
 
 Compétences évaluées :
 
--Implémenter une interface responsive
+- Implémenter une interface responsive
 
--Intégrer du contenu conformément à une maquette
+- Intégrer du contenu conformément à une maquette
